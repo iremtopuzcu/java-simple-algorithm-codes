@@ -20,7 +20,7 @@ public class Question_13 {
 			
 		}
 		
-		System.out.println("reverse : "+sum571);
+		System.out.println("reverse : "+sum);
 		
 
 	}
