@@ -1,8 +1,9 @@
 import java.util.Scanner;
-import java.util.Math;
+
+import java.lang.Math;
 // Program to find whether the sum of the cubes of a 3 digit number is equal to the number itself.
 
-public class Question10 {
+public class Question_10 {
 
 	public static void main(String[] args) {
 		Scanner input = new Scanner(System.in);
