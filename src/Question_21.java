@@ -1,4 +1,4 @@
-//Java Program to Find the Factorial of a Number using Recursion
+//Java Program to Find the Factorial 
 
 import java.util.Scanner;
 
